@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fundamento_BlazorServer.props" />
+</Project>
